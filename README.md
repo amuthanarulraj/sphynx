@@ -11,7 +11,8 @@ Datathon project for analyzing Massachusetts car data.
 * [PostGIS](http://postgis.net/install) - PostgreSQl database extension for working spatial data. After installing PostgreSQl db don't forget to run sql statements to enable PostGIS extension.
 * [pgAdmin](http://www.pgadmin.org/download/) - PostgreSQL database management tool.
 * [Hackathon Data](http://www.37billionmilechallenge.org/#the-data)
-* [Additional hackathon data]() - (Please add the link)
+* [Companion Data](ftp://ftp.mapc.org/vmt/37BillionMile_CompanionDataPackage_3_21_14.zip) - incudes zipcar data, parking data etc.
+* [Grid Data](https://dl.dropboxusercontent.com/u/10192015/grid_250m_attr.zip) - has grid information and other spatial data files.
 
 ##Documentation
 
