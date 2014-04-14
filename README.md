@@ -17,6 +17,7 @@ Datathon project for analyzing Massachusetts car data.
 ##Documentation
 
 * [CartoCSS](https://www.mapbox.com/carto/api/2.1.0/) - style language for visualizing map data.
+* [PostGIS](http://postgis.net/docs/manual-2.1/)
 
 ##Setting up Database
 
